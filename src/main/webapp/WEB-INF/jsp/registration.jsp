@@ -4,7 +4,7 @@
 
 <title>Registration</title>
 
-<h1>Registration</h1>
+<h1>Registration Page</h1>
 
 <form:form modelAttribute="registration">
     Name: <form:input path="name" />
